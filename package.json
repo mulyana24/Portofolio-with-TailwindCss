@@ -1,0 +1,21 @@
+{
+  "name": "Portofolio-with-TailwindCss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulyana24/Portofolio-with-TailwindCss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mulyana24/Portofolio-with-TailwindCss/issues"
+  },
+  "homepage": "https://github.com/mulyana24/Portofolio-with-TailwindCss#readme",
+  "devDependencies": {}
+}
